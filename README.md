@@ -19,11 +19,11 @@ Application layer and OS to control the flow of the project.
 
 The demo is here: https://www.youtube.com/watch?v=hM3MGen5sT4 
 
-# Algorithm of the project 
-![Algorithm of the project](https://github.com/mohamedashraf24695/Industrial-Microwave-System-/blob/master/Algo.png)
-
 # Software design 
 ![Software design](https://github.com/mohamedashraf24695/Industrial-Microwave-System-/blob/master/des.png)
+
+# Algorithm of the project 
+![Algorithm of the project](https://github.com/mohamedashraf24695/Industrial-Microwave-System-/blob/master/Algo.png)
 
 # Hardware setup on PICsim 0.7
 ![The Microwave as hardware](https://github.com/mohamedashraf24695/Industrial-Microwave-System-/blob/master/Microwave%20system%20-%20Copy.png)
