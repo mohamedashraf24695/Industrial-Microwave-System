@@ -23,12 +23,12 @@ The demo is here: https://www.youtube.com/watch?v=hM3MGen5sT4
 ![Software design](https://github.com/mohamedashraf24695/Industrial-Microwave-System-/blob/master/des.png)
 
 
-**Adv.: 
+*Adv.: 
 1) In the point of view of software, it is easy to be configured through H-files, as an example: the pins of the system, if you need to change a pin, you will change it only one time in the H-file.
 2) The drivers are independent, so you can use any of them in other projects easily without any problem
 3) Number of interrupts: only one interrupt in the system (time compare interrupt).
 
-**Needed to be developed points:
+*Needed to be developed points:
 1) Code size
 2) There is one button to clear time and another button to cancel the started operations , the better is to have one common cancel for whole the system.
 
